@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/Main.umap",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"C:/Users/Sabina/Documents/Unreal Projects/Warehouse/Content/BP_Barrel.uasset"
+			]
+		}
+	]
+}
